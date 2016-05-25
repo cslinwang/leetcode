@@ -1,4 +1,4 @@
-package com.wang.sort;
+﻿package com.wang.sort;
 /*
  * @tittle:	bubbleSort
  * @author:	wwwglin
@@ -67,4 +67,5 @@ public class QuickSort {
 		}
 	}
 	//just test
+	//test 2
 }
