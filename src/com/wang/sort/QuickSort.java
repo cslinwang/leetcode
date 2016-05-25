@@ -1,6 +1,6 @@
 ﻿package com.wang.sort;
 /*
- * @tittle:	bubbleSort
+ * @tittle:	BubbleSort
  * @author:	wwwglin
  * @time 2016/04/20
  */
@@ -66,7 +66,5 @@ public class QuickSort {
 			System.out.print(i + ",");
 		}
 	}
-	//just test
-	//test 2
 
 }
